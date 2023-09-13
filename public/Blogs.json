@@ -1,0 +1,48 @@
+[
+    {
+      "id": "1",
+      "cover_img": "https://i.ibb.co/XtX8tzr/1.jpg",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/cwhgzt0/boy1.png",
+      "title": "The Adventure Begins",
+      "reading_time": "15 minutes",
+      "hashtags": ["adventure", "journey", "story"]
+    },
+    {
+      "id": "2",
+      "cover_img": "https://i.ibb.co/HtxYFRk/2.png",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/HDTBQ98/boy2.jpg",
+      "title": "Exploring New Worlds",
+      "reading_time": "12 minutes",
+      "hashtags": ["explore", "discover", "travel"]
+    },
+    {
+      "id": "3",
+      "cover_img": "https://i.ibb.co/g6Rg38m/3.png",
+      "author": "Sam Johnson",
+      "author_img": "https://i.ibb.co/L6J19vf/girl1.jpg",
+      "title": "Mysteries Unraveled",
+      "reading_time": "20 minutes",
+      "hashtags": ["mystery", "detective", "suspense"]
+    },
+    {
+      "id": "4",
+      "cover_img": "https://i.ibb.co/85Qwfmj/4.jpg",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/VJyFXPc/girl2.jpg",
+      "title": "In the Spotlight",
+      "reading_time": "18 minutes",
+      "hashtags": ["celebrity", "entertainment", "interview"]
+    },
+    {
+      "id": "5",
+      "cover_img": "https://i.ibb.co/g6Rg38m/3.png",
+      "author": "Michael Davis",
+      "author_img": "https://i.ibb.co/HDTBQ98/boy2.jpg",
+      "title": "Tech Trends 2023",
+      "reading_time": "10 minutes",
+      "hashtags": ["technology", "innovation", "future"]
+    }
+  ]
+  
